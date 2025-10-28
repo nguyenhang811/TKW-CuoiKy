@@ -6,7 +6,7 @@
 }
 .banner img {
   width: 100%;
-  display: block; /* tránh khoảng trắng dưới ảnh */
+  display: block;
 }
 
 
@@ -194,3 +194,4 @@ footer {
 .footer-social .social-icons a:hover {
   color: #6c63ff;
 }
+
